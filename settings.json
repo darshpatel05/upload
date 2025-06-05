@@ -1,0 +1,17 @@
+{
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.snippetSuggestions": "none",
+    "editor.inlineSuggest.enabled": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.acceptSuggestionOnEnter": "off",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "C_Cpp.autoAddFileAssociations": false,
+    "C_Cpp.formatting": "disabled"
+}
